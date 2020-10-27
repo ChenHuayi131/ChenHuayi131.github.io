@@ -30,14 +30,15 @@ Expected date of graduation: August 2022
 ### **<u>EXPERIENCE</u>**
 
 ***Work***
-+ Tutorial assistant in statistic in University of Manitoba                  (Winter 2020)
-+ Company 2
++ Tutorial assistant in statistic  
+*University of Manitoba, Winnipeg MB (Winter 2020)*
 
 ***Volunteer***
-+ Equipment manager in gym of university                                    (Summer 2019)
++ Equipment manager  
+*Gym of university of Manitoba, Winnipeg MB (Summer 2019)*
 
 ***
-### **<u>INTERESTS</u>**
+### **<u>ACTIVITIES & INTERESTS</u>**
 
 + Graph design
 + Coding
