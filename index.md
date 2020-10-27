@@ -1,12 +1,8 @@
 # <center>Huayi Chen</center>  
 
-<center>
-2535 Waverley St, Winnipeg, Manitoba, R3Y 0Y2  
-  
-C:| (204) 396-2582  
-E:| chenh4@myumanitoba.ca  
-
-</center>
+<center>2535 Waverley St, Winnipeg, Manitoba, R3Y 0Y2</center>  
+<center>C:| (204) 396-2582</center>  
+<center>E:| chenh4@myumanitoba.ca</center>  
   
 ***
 ### **<u>EDUCATION</u>**
