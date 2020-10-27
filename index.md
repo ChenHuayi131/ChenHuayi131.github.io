@@ -1,4 +1,4 @@
-# **Huayi Chen**  
+# **<center>Huayi Chen</center>**  
 
 2535 Waverley St, Winnipeg, Manitoba, R3Y 0Y2  
 C:| (204) 396-2582  
@@ -26,11 +26,11 @@ Expected date of graduation: August 2022
 ***
 ### **<u>EXPERIENCE</u>**
 
-*Work*  
+***Work***
 + Tutorial assistant in statistic in University of Manitoba                  (Winter 2020)
 + Company 2
 
-*Volunteer* 
+***Volunteer***
 + Equipment manager in gym of university                                    (Summer 2019)
 
 ***
