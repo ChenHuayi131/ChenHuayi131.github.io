@@ -4,7 +4,6 @@
 2535 Waverley St, Winnipeg, Manitoba, R3Y 0Y2  
   
 C:| (204) 396-2582  
-
 E:| chenh4@myumanitoba.ca  
 
 </center>
