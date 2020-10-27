@@ -10,7 +10,7 @@ E:| chenh4@myumanitoba.ca
 **Bachelor of Science**  
 University of Manitoba  
 Major: Computer Science  
-Expected date of completion: August 2022  
+Expected date of graduation: August 2022  
 
 ***
 ### **<u>TECHNICAL SKILLS</u>**
@@ -23,19 +23,15 @@ Expected date of completion: August 2022
 + SQL
 + Processing
 
-**Tools and Technologies**
-+ 1
-+ 2
-
 ***
 ### **<u>EXPERIENCE</u>**
 
-*work*  
-+ Tutorial assistant in statistic in University of Manitoba                  Winter 2020
+*Work*  
++ Tutorial assistant in statistic in University of Manitoba                  (Winter 2020)
 + Company 2
 
-*volunteer* 
-+ Equipment manager in gym of university                                    Summer 2019
+*Volunteer* 
++ Equipment manager in gym of university                                    (Summer 2019)
 
 ***
 ### **<u>INTERESTS</u>**
