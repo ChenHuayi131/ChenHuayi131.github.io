@@ -1,12 +1,16 @@
 # **Hosting a Attractive Resume on GitHub Pages**
 ## 666
 
+## 概览  
 
 
-***
+
+
 ## **Instructions**
 
-## he can flys
+## 前期准备
+
+##  
 
 
 ### More Resources
@@ -15,7 +19,6 @@
 3. [Get start with a GitHub Pages](https://pages.github.com/)
 4. [Install and use Jekyll](https://www.youtube.com/playlist?list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB)
 
-***
 ## **Authors and Acknowledgments**
 Group Members:  
 1. Huayi Chen
@@ -23,7 +26,6 @@ Group Members:
 3. David Le
 4. Jai Sandhu
 
-***
 ## **FAQs**
 1.  Why is Markdown better than a word processor?  
   *答案。。。。。。*  
