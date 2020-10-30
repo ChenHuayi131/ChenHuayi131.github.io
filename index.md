@@ -16,7 +16,7 @@ Expected date of graduation: August 2022
 
 ### **<u>TECHNICAL SKILLS</u>**
 ***
-| <center>**Languages**</center> | <center>**Tools**</center> |
+| **Languages** | **Tools** |
 | :----: | :-----:  |
 | Java   | IDEA     |
 | C      | Visual Studio |
