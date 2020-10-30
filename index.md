@@ -16,13 +16,17 @@ Expected date of graduation: August 2022
 
 ### **<u>TECHNICAL SKILLS</u>**
 ***
-| **Languages** | **Tools** |
-| :----: | :-----:  |
-| Java   | IDEA     |
-| C      | Visual Studio |
-| C++    | MySQL    |
-| Python |     |
-| SQL    |     |
+**Languages**
++ Java
++ C
++ C++
++ Python
++ SQL
+
+**Tools**
++ IDEA
++ Visual Studio
++ MySQL
 
 ### **<u>EXPERIENCE</u>**
 ***
