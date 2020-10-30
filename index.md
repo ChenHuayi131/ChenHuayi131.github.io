@@ -6,17 +6,19 @@
 
 <center>E:| chenh4@myumanitoba.ca  </center>  
 
-  
 
 ### **<u>EDUCATION</u>**
+
+***
 
 **Bachelor of Science**  
 University of Manitoba  
 Major: Computer Science  
 Expected date of graduation: August 2022  
 
-***
 ### **<u>TECHNICAL SKILLS</u>**
+
+***
 
 **Programming Languages**
 + Java 
@@ -26,8 +28,9 @@ Expected date of graduation: August 2022
 + SQL
 + Processing
 
-***
 ### **<u>EXPERIENCE</u>**
+
+***
 
 ***Work***
 + Tutorial assistant in statistic  
@@ -37,8 +40,9 @@ Expected date of graduation: August 2022
 + Equipment manager  
 *Gym of university of Manitoba, Winnipeg MB (Summer 2019)*
 
-***
 ### **<u>ACTIVITIES & INTERESTS</u>**
+
+***
 
 + Graph design
 + Coding
