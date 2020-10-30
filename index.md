@@ -7,7 +7,7 @@
 <center>E:| chenh4@myumanitoba.ca  </center>  
 
   
-***
+
 ### **<u>EDUCATION</u>**
 
 **Bachelor of Science**  
