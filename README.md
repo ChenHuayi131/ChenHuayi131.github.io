@@ -1,16 +1,13 @@
 # **Hosting a Attractive Resume on GitHub Pages**
 ## 666
 
-## 概览  
-
-
 
 
 ## **Instructions**
 
-## 前期准备
+## he can flys
 
-
+![Sample Resume](https://media.giphy.com/media/BVEx2WqttRwTCHYfOK/giphy.gif)
 
 ### More Resources
 1. [Markdown tutorial](https://www.markdowntutorial.com/)
@@ -29,5 +26,5 @@ Group Members:
 1.  Why is Markdown better than a word processor?  
   *答案。。。。。。*  
 
-2.  What can I add to make my Markdown file more vivid?  
+2.  How can I make my Markdown file more vivid?  
   *答案。。。。。。*
