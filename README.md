@@ -21,10 +21,10 @@
 ***
 
 ### *Prerequisites*
-
+dsv
 
 ### *Installation*
-
+savdcv
 
 
 
@@ -32,17 +32,18 @@
 ***
 
 ### *1. Create a new repository*
-.github.io
+  .github.io
 
 ### *2. Set a home page*
-Add index.md file
+  Add index.md file
 
 ### *3. Use Jekyll theme*
+escjndv
 
 ### *4. Rename title*
+sdvcnmasd
 
 ### Resume Demo
-
 ![Sample Resume Demo](https://media.giphy.com/media/BVEx2WqttRwTCHYfOK/giphy.gif)
 
 ## **Helpful Resources**
