@@ -5,11 +5,11 @@
   + [Prerequisites](#prerequisites)
   + [Installation](#installation)
 + [Instructions](#instructions)  
-+ [Create a new repository](#create-a-new-repository)
-+ [Set a home page](#set-a-home-page)
-+ [Use Jekyll theme](#use-jekyll-theme)
-+ [Rename title](#rename-title)
-+ [Resume Demo](#resume-demo)
+  1. [Create a new repository](#1.create-a-new-repository)
+  2. [Set a home page](#2.set-a-home-page)
+  3. [Use Jekyll theme](#3.use-jekyll-theme)
+  4. [Rename title](#4.rename-title)
+  + [Resume Demo](#resume-demo)
 + [Helpful Resources](#helpful-resources)
 + [Authors and Acknowledgments](#authors-and-acknowledgments)
 + [FAQs](#faqs)
@@ -29,19 +29,19 @@ savdcv
 
 ## **Instructions**
 
-## *1. Create a new repository*
+### *1. Create a new repository*
   .github.io
 
-## *2. Set a home page*
+### *2. Set a home page*
   Add index.md file
 
-## *3. Use Jekyll theme*
+### *3. Use Jekyll theme*
 escjndv
 
-## *4. Rename title*
+### *4. Rename title*
 sdvcnmasd
 
-## Resume Demo
+### Resume Demo
 ![Sample Resume Demo](https://media.giphy.com/media/BVEx2WqttRwTCHYfOK/giphy.gif)
 
 ## **Helpful Resources**
