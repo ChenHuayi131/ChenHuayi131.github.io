@@ -29,19 +29,19 @@ savdcv
 
 ## **Instructions**
 
-### *1. Create a new repository*
+## *1. Create a new repository*
   .github.io
 
-### *2. Set a home page*
+## *2. Set a home page*
   Add index.md file
 
-### *3. Use Jekyll theme*
+## *3. Use Jekyll theme*
 escjndv
 
-### *4. Rename title*
+## *4. Rename title*
 sdvcnmasd
 
-### Resume Demo
+## Resume Demo
 ![Sample Resume Demo](https://media.giphy.com/media/BVEx2WqttRwTCHYfOK/giphy.gif)
 
 ## **Helpful Resources**
