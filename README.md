@@ -1,28 +1,68 @@
 # **Hosting a Attractive Resume on GitHub Pages**
-## 666
+
+## **List of Contents**
++ [Getting Started](#getting-started)  
+  + [Prerequisites](#prerequisites)
+  + [Installation](#installation)
++ [Instructions](#instructions)  
+  + [Create a new repository](#create-a-new-repository)
+  + [Set a home page](#set-a-home-page)
+  + [Use Jekyll theme](#use-jekyll-theme)
+  + [Rename title](#rename-title)
++ [Helpful Resources](#helpful-resources)
++ [Authors and Acknowledgments](#authors-and-acknowledgments)
++ [FAQs](#faqs)
+
+
+
+
+## **Getting Started**
+***
+
+### *Prerequisites*
+
+
+### *Installation*
+
 
 
 
 ## **Instructions**
+***
 
-## he can flys
+### *1. Create a new repository*
+.github.io
 
-![Sample Resume](https://media.giphy.com/media/BVEx2WqttRwTCHYfOK/giphy.gif)
+### *2. Set a home page*
+Add index.md file
 
-### More Resources
-1. [Markdown tutorial](https://www.markdowntutorial.com/)
-2. [Modern Technical Writing *by Andrew Etter*](https://www.amazon.ca/gp/product/B01A2QL9SS/)
-3. [Get start with a GitHub Pages](https://pages.github.com/)
-4. [Install and use Jekyll](https://www.youtube.com/playlist?list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB)
+### *3. Use Jekyll theme*
+
+### *4. Rename title*
+
+### Resume Demo
+
+![Sample Resume Demo](https://media.giphy.com/media/BVEx2WqttRwTCHYfOK/giphy.gif)
+
+## **Helpful Resources**
+***
++ [Markdown tutorial](https://www.markdowntutorial.com/)
++ [Modern Technical Writing *by Andrew Etter*](https://www.amazon.ca/gp/product/B01A2QL9SS/)
++ [Get start with a GitHub Pages](https://pages.github.com/)
++ [Install and use Jekyll](https://www.youtube.com/playlist?list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB)
 
 ## **Authors and Acknowledgments**
+***
+README template author: [Othneil Drew](https://github.com/othneildrew)  
+
 Group Members:  
-1. Huayi Chen
-2. Connor Hryhoruk
-3. David Le
-4. Jai Sandhu
++ Huayi Chen
++ Connor Hryhoruk
++ David Le
++ Jai Sandhu
 
 ## **FAQs**
+***
 1.  Why is Markdown better than a word processor?  
   *答案。。。。。。*  
 
