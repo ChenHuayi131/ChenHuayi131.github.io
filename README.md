@@ -9,6 +9,7 @@
   + [Set a home page](#set-a-home-page)
   + [Use Jekyll theme](#use-jekyll-theme)
   + [Rename title](#rename-title)
+  + [Resume Demo](#resume-demo)
 + [Helpful Resources](#helpful-resources)
 + [Authors and Acknowledgments](#authors-and-acknowledgments)
 + [FAQs](#faqs)
