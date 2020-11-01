@@ -32,20 +32,20 @@ Here are some helpful guidelines about how to make a beautiful resume or somethi
 + Jekyll has a few complex steps to operate, you just copy codes shown below and paste them step-by-step in the terminal.
 
   1. Install ruby  
-    (Ubuntu)
-    ```shell
-    ~ $ sudo apt-get install ruby-full
-    ```
-    (macOs)
-    ```shell
-    ~ $ brew install ruby
-    ```
+  (Ubuntu)
+  ```shell
+  ~ $ sudo apt-get install ruby-full
+  ```  
+  (macOs)
+  ```shell
+  ~ $ brew install ruby
+  ```
   2. Install Jekyll
-    ```shell
-    ~ $ gem install bundler jekyll
-    ~ $ jekyll new my-awesome-site
-    ~/my-awesome-site $ bundle exec jekyll serve
-    ```
+  ```shell
+  ~ $ gem install bundler jekyll
+  ~ $ jekyll new my-awesome-site
+  ~/my-awesome-site $ bundle exec jekyll serve
+  ```
   [Learn more](https://jekyllrb.com/) about installing Jekyll  
 
 
