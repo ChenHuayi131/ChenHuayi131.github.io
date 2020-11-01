@@ -29,18 +29,17 @@ Here are some helpful guidelines about how to make a beautiful resume or somethi
 
 + Markdown editors are common applications on computer, almost of them are supported by Windows, Mac, and Linux. You can directly go to their official websites to download them. Here are some brands of the best rate [Markdown editors](https://www.shopify.com/partners/blog/10-of-the-best-markdown-editors).  
 
-+ Jekyll has a few complex steps to operate, you just copy codes shown below and paste them step-by-step in the terminal.
-
-  1. Install ruby  
-  (Ubuntu)
++ Jekyll has a few complex steps to operate, you just copy codes shown below and paste them step-by-step in the terminal.  
+1. Install ruby  
+(Ubuntu)
   ```shell
   ~ $ sudo apt-get install ruby-full
   ```  
-  (macOs)
+(macOs)
   ```shell
   ~ $ brew install ruby
-  ```
-  2. Install Jekyll
+  ```  
+2. Install Jekyll
   ```shell
   ~ $ gem install bundler jekyll
   ~ $ jekyll new my-awesome-site
