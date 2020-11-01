@@ -29,21 +29,20 @@ Here are some helpful guidelines about how to make a beautiful resume or somethi
 
 + Markdown editors are common applications on computer, almost of them are supported by Windows, Mac, and Linux. You can directly go to their official websites to download them. Here are some brands of the best rate [Markdown editors](https://www.shopify.com/partners/blog/10-of-the-best-markdown-editors).  
 
-+ Jekyll has a few complex steps to operate, you just copy codes shown below and paste them step-by-step in the terminal.  
++ Jekyll has a few complex steps to operate, you just copy codes shown below and paste them step-by-step in the terminal.
   1. Install ruby  
-(Ubuntu)
+  (Ubuntu)
   ```shell
   ~ $ sudo apt-get install ruby-full
-  ```  
+  ```
   (macOs)
   ```shell
   ~ $ brew install ruby
-  ```  
+  ```
+
   2. Install Jekyll
   ```shell
   ~ $ gem install bundler jekyll
-  ~ $ jekyll new my-awesome-site
-  ~/my-awesome-site $ bundle exec jekyll serve
   ```
   [Learn more](https://jekyllrb.com/) about installing Jekyll  
 
@@ -54,17 +53,23 @@ Here are some helpful guidelines about how to make a beautiful resume or somethi
 ## **Instructions**
 
 ### *1. Create a new repository*
-  .github.io
-![hh](https://github.com/ChenHuayi131/ChenHuayi131.github.io/blob/main/images/repository.png)
+  .github.io  
+
+![Repository](https://media.giphy.com/media/GGkfXc4LTRMYRsfv6u/giphy.gif)
 
 ### *2. Set a home page*
   Add index.md file
 
 ### *3. Use Jekyll theme*
-choose theme
+choose theme  
+
+![Jekyll theme](https://media.giphy.com/media/lZgYDblV8VvPQGq7k0/giphy.gif)
+
 
 ### *4. Rename title*
 title: your name
+
+
 
 ### Resume Demo
 ![Sample Resume Demo](https://media.giphy.com/media/BVEx2WqttRwTCHYfOK/giphy.gif)
