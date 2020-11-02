@@ -9,11 +9,13 @@ Here are some helpful guidelines about how to make a beautiful resume or somethi
   + [Installation](#installation)
 + [Instructions](#instructions)  
   + [Create a new repository](#1-create-a-new-repository)
-  + [Set a home page](#2-set-a-home-page)
-  + [Use Jekyll theme](#3-use-jekyll-theme)
-  + [Rename title](#4-rename-title)
+  + [Write resume in Markdown](#2-Write-resume-in-markdown)
+  + [Set a home page](#3-use-a-markdown-editor)
+  + [Use Jekyll theme](#4-make-an-index-md-file)
+  + [Rename title](#5-create-static-site-by-Jekyll)
+
   + [Resume Demo](#resume-demo)
-+ [Helpful Resources](#helpful-resources)
++ [Resources](#resources)
 + [Authors and Acknowledgments](#authors-and-acknowledgments)
 + [FAQs](#faqs)
 
@@ -30,12 +32,10 @@ Here are some helpful guidelines about how to make a beautiful resume or somethi
 + Markdown editors are common applications on computer, almost of them are supported by Windows, Mac, and Linux. You can directly go to their official websites to download them. Here are some brands of the best rate [Markdown editors](https://www.shopify.com/partners/blog/10-of-the-best-markdown-editors).  
 
 + Jekyll has a few complex steps to operate, you just copy codes shown below and paste them step-by-step in the terminal.
-  1. Install ruby  
-  (Ubuntu)
+  1. Install ruby Ubuntu(first) and macOs(second)
   ```shell
   ~ $ sudo apt-get install ruby-full
   ```
-  (macOs)
   ```shell
   ~ $ brew install ruby
   ```
@@ -53,28 +53,32 @@ Here are some helpful guidelines about how to make a beautiful resume or somethi
 ## **Instructions**
 
 ### *1. Create a new repository*
-  .github.io  
-
+At the beginning, if this is your first time that hear GitHub, you need to create a GitHub account on the Internet. After you log in, you will see a “+” sign near your profile photo on the top left of screen, click it and there is a "*New repository*" where is the place to create your own GitHub Page. Please see the red circle 1 in picture I show you below. Next, you are required to enter a repository name, which the repository name must begin with exactly your username so that it can automatically generate a GitHub Pages site. Otherwise, it cannot build an online site from your GitHub repository. In other words, you just follow the red step 2 I draw in the picture that fill with <u>*username.github.io*</u> there to ensure your resume can appear online successfully. After that, check all information you already filled and click green button "*Create repository*".  
 ![Repository](https://media.giphy.com/media/GGkfXc4LTRMYRsfv6u/giphy.gif)
 
-### *2. Set a home page*
-  Add index.md file
+### *2. Write resume in Markdown*
+First of all, before you start to make a home page, you need to prepare your resume code probably written by Markdown language. According to Andrew Etter, Markdown is the most widely used lightweight markup language by many people who may work in the IT industry all over the world. If you write your resume in Markdown, you will enjoy the benefits it brings to you, such as the cleanest syntax, limited set of features, and no defined standard. To be specific, Markdown makes everything become simpler and easier to get started. Markdown has its flavors, especially we focus on one of them which is GitHub Flavored Markdown. Lastly, I provide you with some helpful Markdown tutorials on *Resources* section, including some commonly used syntax.
 
-### *3. Use Jekyll theme*
-choose theme  
+### *3. Use a Markdown editor*
+You maybe write your Markdown with a Markdown editor. It can make you easy and convenient since the editor can provide live view to you that you are able to glance the preview generated from what you write. I recommend you use one of these two free Markdown editors. They are **Typora** and **Atom**. Typora is a concise Markdown editor that supports instant rendering technology which means you can edit contents and see what happen next second. Other is Atom, it has abundant plug-ins.
+
+### *4. Make an index.md file*
+If you have already created a repository and well done your resume, now you will click “*Add file*” button to create a new file named **index.md** in GitHub repository. This index.md file should be your resume formatted with Markdown. If this is the first time you process files in repository, I strongly advocate you to copy the source code from your Markdown file and paste them in this index.md file.
+
+### *5. Create static site by Jekyll*
+Andrew Etter mentions, static websites have some excellent performances, such as speed and simplicity, and easy to migrate. If people want to create a static website, they will use a generator, like Jekyll, just provide content and theme and then it processes everything to build a website. However, you just need parts of Jekyll’s functions to generate your resume on web. First thing is that click *Settings* in your GitHub repository, then go down and find *GitHub Pages*. You may select *main* branch and click *Change theme*, choose a theme you want to show to your future employer. Also, come back to repository and enter "*_config.yml*" file, add
+```
+title: your name 's Resume
+```
+After a few seconds, you will see fantastic appearance of your resume on <u> https://username.github.io</u>.
 
 ![Jekyll theme](https://media.giphy.com/media/lZgYDblV8VvPQGq7k0/giphy.gif)
-
-
-### *4. Rename title*
-title: your name
-
 
 
 ### Resume Demo
 ![Sample Resume Demo](https://media.giphy.com/media/BVEx2WqttRwTCHYfOK/giphy.gif)
 
-## **Helpful Resources**
+## **Resources**
 + [Markdown tutorial](https://www.markdowntutorial.com/)
 + [Modern Technical Writing *by Andrew Etter*](https://www.amazon.ca/gp/product/B01A2QL9SS/)
 + [Get start with a GitHub Pages](https://pages.github.com/)
