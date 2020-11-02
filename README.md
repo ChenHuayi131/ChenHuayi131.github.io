@@ -10,9 +10,9 @@ Here are some helpful guidelines about how to make a beautiful resume or somethi
 + [Instructions](#instructions)  
   + [Create a new repository](#1-create-a-new-repository)
   + [Write resume in Markdown](#2-Write-resume-in-markdown)
-  + [Set a home page](#3-use-a-markdown-editor)
-  + [Use Jekyll theme](#4-make-an-index-md-file)
-  + [Rename title](#5-create-static-site-by-Jekyll)
+  + [Use a Markdown editor](#3-use-a-markdown-editor)
+  + [Make an index.md file](#4-make-an-index.md-file)
+  + [Create static site by Jekyll](#5-create-static-site-by-Jekyll)
 
   + [Resume Demo](#resume-demo)
 + [Resources](#resources)
