@@ -11,7 +11,7 @@ Here are some helpful guidelines about how to make a beautiful resume or somethi
   + [Create a new repository](#1-create-a-new-repository)
   + [Write resume in Markdown](#2-Write-resume-in-markdown)
   + [Use a Markdown editor](#3-use-a-markdown-editor)
-  + [Make an index.md file](#4-make-an-index.md-file)
+  + [Make an index file](#4-make-an-index-file)
   + [Create static site by Jekyll](#5-create-static-site-by-Jekyll)
 
   + [Resume Demo](#resume-demo)
@@ -62,7 +62,7 @@ First of all, before you start to make a home page, you need to prepare your res
 ### *3. Use a Markdown editor*
 You maybe write your Markdown with a Markdown editor. It can make you easy and convenient since the editor can provide live view to you that you are able to glance the preview generated from what you write. I recommend you use one of these two free Markdown editors. They are **Typora** and **Atom**. Typora is a concise Markdown editor that supports instant rendering technology which means you can edit contents and see what happen next second. Other is Atom, it has abundant plug-ins.
 
-### *4. Make an index.md file*
+### *4. Make an index file*
 If you have already created a repository and well done your resume, now you will click “*Add file*” button to create a new file named **index.md** in GitHub repository. This index.md file should be your resume formatted with Markdown. If this is the first time you process files in repository, I strongly advocate you to copy the source code from your Markdown file and paste them in this index.md file.
 
 ### *5. Create static site by Jekyll*
