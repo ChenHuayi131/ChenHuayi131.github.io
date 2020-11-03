@@ -53,10 +53,8 @@ Etter mentions, "static websites have some excellent performances, such as speed
 ```
 title: yourname's Resume
 ```
-After a few seconds, you will see fantastic appearance of your resume on <u> https://**username**.github.io</u>.  
-
 ![Rename title](https://github.com/ChenHuayi131/ChenHuayi131.github.io/blob/main/images/Rename%20title.gif)  
-
+After a few seconds, you will see fantastic appearance of your resume on <u> https://**username**.github.io</u>.  
 
 ### Resume Demo
 ![Sample Resume Demo](https://media.giphy.com/media/BVEx2WqttRwTCHYfOK/giphy.gif)
