@@ -13,7 +13,6 @@ Here are some helpful guidelines about how to make a beautiful resume or somethi
   + [Use a Markdown editor](#3-use-a-markdown-editor)
   + [Make an index file](#4-make-an-index-file)
   + [Create static site by Jekyll](#5-create-static-site-by-Jekyll)
-
   + [Resume Demo](#resume-demo)
 + [Resources](#resources)
 + [Authors and Acknowledgments](#authors-and-acknowledgments)
@@ -92,12 +91,12 @@ Group Members:
 Huayi Chen, Connor Hryhoruk, David Le, Jai Sandhu
 
 ## **FAQs**
-1.  Why is Markdown better than Microsoft Word?  
+1. Why is Markdown better than Microsoft Word?  
 
   To some extent, Markdown is suitable for simple situations with no special requirements on format, such as writing a blog, a README or code documents, where line spacing, headers, footers, and indentation are all meaningless, and what matters is the content. In addition, markdown is simple text, which is convenient for Git management, while Word is too heavy and inconvenient.
 
 
-2.  Why is my resume not showing up?  
+2. Why is my resume not showing up?  
 
   Please try the following methods：
   + Correct your repository named as <u>**username**.github.io</u>
