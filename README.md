@@ -22,14 +22,14 @@ Here are some helpful guidelines about how to make a beautiful resume or somethi
 ## **Getting Started**
 
 ### *Prerequisites*
-+ You will work with popular and current technical documentation tools. The most important thing is **GitHub Pages**. It allows you to make and upload your resume on the website.  
++ You will work with popular and current technical documentation tools. The most important thing is **GitHub Pages**. From Etter, "GitHub use a *Distributed Version Control System*, it allows people work offline and work on the same file. Also, it can keep all versions of one file in the history." So DVCS is suitable to solve problems required collaboration.
 + You required a basic level for writing **Markdown** language, I will talk about benefits of this language later.  
 + I recommend you write and edit codes by using a **Markdown editor**. Of course, it depends on you, you can directly write Markdown on GitHub files or anywhere you like.  
 + If you want to make your resume more vivid in order to leave a nice first impression on employers, **Jekyll** is the best choice.
 
 ### *Installation*
 
-+ Markdown editors are common applications on computer, almost of them are supported by Windows, Mac, and Linux. You can directly go to their official websites to download them. Here are some brands of the best rate [Markdown editors](https://www.shopify.com/partners/blog/10-of-the-best-markdown-editors).  
++ Markdown editors are common applications on computer, almost of them are supported by Windows, Mac, and Linux. You can directly go to their official websites to download them. Here are some brands of the best rate Markdown editors on *Resources* section.
 
 + Jekyll has a few complex steps to operate, you just copy codes shown below and paste them step-by-step in the terminal.
   1. Install ruby Ubuntu(first) and macOs(second)
@@ -47,7 +47,7 @@ Here are some helpful guidelines about how to make a beautiful resume or somethi
   [Learn more](https://jekyllrb.com/) about installing Jekyll  
 
 
-+ There are no need to install GitHub application on desktop of your computer.
++ There is no need to install GitHub application on desktop of your computer.
 
 
 ## **Instructions**
@@ -57,7 +57,7 @@ At the beginning, if this is your first time that hear GitHub, you need to creat
 ![Repository](https://media.giphy.com/media/GGkfXc4LTRMYRsfv6u/giphy.gif)
 
 ### *2. Write resume in Markdown*
-First of all, before you start to make a home page, you need to prepare your resume code probably written by Markdown language. According to Andrew Etter, Markdown is the most widely used lightweight markup language by many people who may work in the IT industry all over the world. If you write your resume in Markdown, you will enjoy the benefits it brings to you, such as the cleanest syntax, limited set of features, and no defined standard. To be specific, Markdown makes everything become simpler and easier to get started. Markdown has its flavors, especially we focus on one of them which is GitHub Flavored Markdown. Lastly, I provide you with some helpful Markdown tutorials on *Resources* section, including some commonly used syntax.
+First of all, before you start to make a home page, you need to prepare your resume code probably written by Markdown language. According to Etter, "Markdown is the most widely used lightweight markup language by many people who may work in the IT industry all over the world. If you write your resume in Markdown, you will enjoy the benefits it brings to you, such as the cleanest syntax, limited set of features, and no defined standard." To be specific, Markdown makes everything become simpler and easier to get started. Markdown has its flavors, especially we focus on one of them which is GitHub Flavored Markdown. Lastly, I provide you with some helpful Markdown tutorials on *Resources* section, including some commonly used syntax.
 
 ### *3. Use a Markdown editor*
 You maybe write your Markdown with a Markdown editor. It can make you easy and convenient since the editor can provide live view to you that you are able to glance the preview generated from what you write. I recommend you use one of these two free Markdown editors. They are **Typora** and **Atom**. Typora is a concise Markdown editor that supports instant rendering technology which means you can edit contents and see what happen next second. Other is Atom, it has abundant plug-ins.
@@ -66,11 +66,11 @@ You maybe write your Markdown with a Markdown editor. It can make you easy and c
 If you have already created a repository and well done your resume, now you will click “*Add file*” button to create a new file named **index.md** in GitHub repository. This index.md file should be your resume formatted with Markdown. If this is the first time you process files in repository, I strongly advocate you to copy the source code from your Markdown file and paste them in this index.md file.
 
 ### *5. Create static site by Jekyll*
-Andrew Etter mentions, static websites have some excellent performances, such as speed and simplicity, and easy to migrate. If people want to create a static website, they will use a generator, like Jekyll, just provide content and theme and then it processes everything to build a website. However, you just need parts of Jekyll’s functions to generate your resume on web. First thing is that click *Settings* in your GitHub repository, then go down and find *GitHub Pages*. You may select *main* branch and click *Change theme*, choose a theme you want to show to your future employer. Also, come back to repository and enter "*_config.yml*" file, add
+Etter mentions, "static websites have some excellent performances, such as speed and simplicity, and easy to migrate. If people want to create a static website, they will use a generator, like Jekyll, just provide content and theme and then it processes everything to build a website." However, you just need parts of Jekyll’s functions to generate your resume on web. First thing is that click *Settings* in your GitHub repository, then go down and find *GitHub Pages*. You may select *main* branch and click *Change theme*, choose a theme you want to show to your future employer (See picture below). Also, come back to repository and enter "*_config.yml*" file, add
 ```
 title: your name 's Resume
 ```
-After a few seconds, you will see fantastic appearance of your resume on <u> https://username.github.io</u>.
+After a few seconds, you will see fantastic appearance of your resume on <u> https://**username**.github.io</u>.
 
 ![Jekyll theme](https://media.giphy.com/media/lZgYDblV8VvPQGq7k0/giphy.gif)
 
@@ -79,23 +79,28 @@ After a few seconds, you will see fantastic appearance of your resume on <u> htt
 ![Sample Resume Demo](https://media.giphy.com/media/BVEx2WqttRwTCHYfOK/giphy.gif)
 
 ## **Resources**
-+ [Markdown tutorial](https://www.markdowntutorial.com/)
-+ [Modern Technical Writing *by Andrew Etter*](https://www.amazon.ca/gp/product/B01A2QL9SS/)
++ [10 of the best Markdown editors](https://www.shopify.com/partners/blog/10-of-the-best-markdown-editors)
++ [Markdown tutorials](https://www.markdowntutorial.com/)
 + [Get start with a GitHub Pages](https://pages.github.com/)
-+ [Use Jekyll](https://www.youtube.com/playlist?list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB)
++ [Video tutorials of using Jekyll](https://www.youtube.com/playlist?list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB)
++ [Modern Technical Writing](https://www.amazon.ca/gp/product/B01A2QL9SS/) *by Andrew Etter*
 
 ## **Authors and Acknowledgments**
 README template author: [Othneil Drew](https://github.com/othneildrew)  
 
 Group Members:  
-+ Huayi Chen
-+ Connor Hryhoruk
-+ David Le
-+ Jai Sandhu
+Huayi Chen, Connor Hryhoruk, David Le, Jai Sandhu
 
 ## **FAQs**
-1.  Why is Markdown better than a word processor?  
-  *答案。。。。。。*  
+1.  Why is Markdown better than Microsoft Word?  
 
-2.  How can I make my Markdown file more vivid?  
-  *答案。。。。。。*
+  To some extent, Markdown is suitable for simple situations with no special requirements on format, such as writing a blog, a README or code documents, where line spacing, headers, footers, and indentation are all meaningless, and what matters is the content. In addition, markdown is simple text, which is convenient for Git management, while Word is too heavy and inconvenient.
+
+
+2.  Why is my resume not showing up?  
+
+  Please try the following methods：
+  + Correct your repository named as <u>**username**.github.io</u>
+  + Check the contents of index.md file, it should be formatted with Markdown
+  + Turn on your VPN to link your resume website if you are in some network monitoring regions  
+  + Retry to refresh this website after a while
